@@ -6,3 +6,7 @@ Más cosas
 This repository is built step by step in the tutorial.
 
 It include steps for GitHub.
+
+***
+
+Agregando cosas nuevas para una rama local pasarla a GitHub.
